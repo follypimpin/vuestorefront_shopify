@@ -2,7 +2,6 @@
 
 To display Cms data:
  - install `snowdog/module-cms-api` composer module in your Magento 2 instance, [snowdog/module-cms-api on github](https://github.com/SnowdogApps/magento2-cms-api)
- - make sure that in `vue-storefront-api` repo the `cms-data` extension is installed
 
 ## Cms Block
 To display Cms Block import CmsData component and use it in template:
